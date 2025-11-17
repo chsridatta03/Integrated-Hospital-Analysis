@@ -167,6 +167,28 @@ This includes high-value tasks that demonstrate data engineering and analytical 
 
  ![WhatsApp Image 2025-11-17 at 16 30 41_486e7087](https://github.com/user-attachments/assets/7f8dff2f-02f3-4858-8af7-15c8f82c87ec)
 
+ ![WhatsApp Image 2025-11-17 at 16 31 06_3f613f7f](https://github.com/user-attachments/assets/c5f17c4f-2d84-4e05-a340-64de5a5d8432)
+
+ ![WhatsApp Image 2025-11-17 at 16 31 32_63512e09](https://github.com/user-attachments/assets/5ced4c69-3180-4c96-a365-6609fadc1f95)
+
+ ![WhatsApp Image 2025-11-17 at 16 32 01_30ab0afa](https://github.com/user-attachments/assets/58b4bb20-78a9-4082-bd74-9ea0e35629f1)
+
+ ![WhatsApp Image 2025-11-17 at 16 32 28_e875b985](https://github.com/user-attachments/assets/c41a3d13-c79e-40e9-be92-8ed525583c36)
+
+ ![WhatsApp Image 2025-11-17 at 16 33 02_2698ace4](https://github.com/user-attachments/assets/99190bfc-a2b2-49e5-830c-f279d8ccc83e)
+
+ ![WhatsApp Image 2025-11-17 at 16 33 40_6af4e0bb](https://github.com/user-attachments/assets/feff2a94-594a-4056-8af9-a5224a79cd64)
+
+
+
+ 
+
+
+
+
+ 
+
+
 
 # ✔ Highlights:
  Identifying patient churn
