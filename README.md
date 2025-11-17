@@ -46,6 +46,7 @@ This repository consolidates Python EDA, SQL tasks, Excel datasets, and a Power 
 File: Python Analysis.ipynb
 
 Python was used to perform a deep-dive exploration across all hospital tables.
+
 Key work includes:
 
 # ✔ Data Engineering
@@ -72,6 +73,36 @@ Includes 25+ visuals such as:
  Boxplots
  KDE density charts
  Combined bar + line visuals
+
+ <img width="1057" height="818" alt="image" src="https://github.com/user-attachments/assets/23da205d-3dca-4410-b08a-55bbea7323b1" />
+
+ <img width="1135" height="719" alt="image" src="https://github.com/user-attachments/assets/46650596-e508-4330-b0c2-632c5c3d8244" />
+
+ <img width="1614" height="776" alt="image" src="https://github.com/user-attachments/assets/d7b75966-23e4-48cf-a727-72d003147e17" />
+
+ <img width="952" height="603" alt="image" src="https://github.com/user-attachments/assets/2c6baf8f-1f59-4bc9-8c47-72698a9d9e81" />
+
+ <img width="840" height="792" alt="image" src="https://github.com/user-attachments/assets/582e97e4-d33c-4f13-a737-3f180d4ffa68" />
+
+ <img width="878" height="779" alt="image" src="https://github.com/user-attachments/assets/4d804ed0-f6a2-4439-ac41-4af8f1fb33a6" />
+
+ <img width="633" height="575" alt="image" src="https://github.com/user-attachments/assets/79a9e98f-62f6-4967-94b9-793c1902f4ab" />
+
+ <img width="630" height="679" alt="image" src="https://github.com/user-attachments/assets/1a2cb32c-5a1a-47a4-a2b4-00cfac17b0b0" />
+
+ <img width="728" height="645" alt="image" src="https://github.com/user-attachments/assets/5ca8cc74-41f4-4147-889e-4d90b6c6674e" />
+
+ ![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
 
 The EDA provided the analytical foundation used to build the Power BI dashboard.
 
