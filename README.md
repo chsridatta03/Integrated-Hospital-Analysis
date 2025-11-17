@@ -158,6 +158,8 @@ A fully designed, multi-page dashboard was created to translate insights into de
 ---
 
  🗄 SQL Server 
+ ![WhatsApp Image 2025-11-17 at 16 30 41_486e7087](https://github.com/user-attachments/assets/7f8dff2f-02f3-4858-8af7-15c8f82c87ec)
+
 
 File: Analysis.sql
 
