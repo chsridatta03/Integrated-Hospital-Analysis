@@ -92,7 +92,7 @@ Includes 25+ visuals such as:
 
  <img width="728" height="645" alt="image" src="https://github.com/user-attachments/assets/5ca8cc74-41f4-4147-889e-4d90b6c6674e" />
 
- ![Uploading image.png…]()
+ <img width="863" height="765" alt="image" src="https://github.com/user-attachments/assets/00bc815d-ee34-480e-87f0-77c44b574a2d" />
 
 
 
@@ -112,6 +112,18 @@ The EDA provided the analytical foundation used to build the Power BI dashboard.
 File: Dashboard.pbix
 
 <img width="1046" height="727" alt="image" src="https://github.com/user-attachments/assets/d0bf92a8-021f-48cd-9804-31c10a1ab58c" />
+
+<img width="1760" height="736" alt="image" src="https://github.com/user-attachments/assets/563e0625-6301-4dd8-8405-63629a09eb0b" />
+
+<img width="1642" height="738" alt="image" src="https://github.com/user-attachments/assets/73a92d97-1526-4355-ae32-a710c36abffb" />
+
+<img width="1241" height="735" alt="image" src="https://github.com/user-attachments/assets/8f81efe5-c604-4049-bae8-04b94e97e0fa" />
+
+<img width="828" height="728" alt="image" src="https://github.com/user-attachments/assets/28865085-c299-417e-b40e-c8a96c1b07f2" />
+
+
+
+
 
 A fully designed, multi-page dashboard was created to translate insights into decision-ready visuals.
 # 📘 Pages Included
@@ -219,6 +231,21 @@ All analysis originated from structured Excel data containing:
  Billings
 
 Excel served as the primary data source for Power BI and as a validation layer for Python + SQL outputs.
+
+<img width="717" height="781" alt="image" src="https://github.com/user-attachments/assets/03062046-d1fe-410c-b019-51db25d227e5" />
+
+<img width="1031" height="790" alt="image" src="https://github.com/user-attachments/assets/d6481f5d-0df6-41d7-9b33-fc68b1a4b98c" />
+
+<img width="1342" height="768" alt="image" src="https://github.com/user-attachments/assets/4cbc815c-7e67-4d43-846f-69b278805ff5" />
+
+<img width="747" height="782" alt="image" src="https://github.com/user-attachments/assets/79dbf050-0365-4f38-9ee4-93392c5eac74" />
+
+![Uploading image.png…]()
+
+
+
+
+
 
 ---
 
